@@ -21,8 +21,7 @@ const preguntas = [
             }
          ]
     }
-]
-
+];
 
 const inquirerMenu =  async()=>{
 

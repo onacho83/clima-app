@@ -4,19 +4,19 @@
 Temas de la sección:
 La sección se enfoca en los siguientes temas:
 
-Consumo de APIs
+• Consumo de APIs
 
-Llamadas HTTP hacia servidores externos
+• Llamadas HTTP hacia servidores externos
 
-Paquete request - superficialmente
+• Paquete request - superficialmente
 
-Paquete Axios
+• Paquete Axios
 
-Mapbox places para obtener lugares por nombre
+• Mapbox places para obtener lugares por nombre
 
-Uso de OpenWeather para obtener el clima
+• Uso de OpenWeather para obtener el clima
 
-Aplicación de consola con historial
+• Aplicación de consola con historial
 
-Variables de entorno
+• Variables de entorno
   ```
